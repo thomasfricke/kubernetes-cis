@@ -1,0 +1,3 @@
+[submodule "kubernetes-cis-benchmark"]
+	path = kubernetes-cis-benchmark
+	url = https://github.com/neuvector/kubernetes-cis-benchmark
